@@ -6,6 +6,7 @@ public class AirPlane {
 		System.out.println("Rabish");
 		System.out.println("RabishCGI");
 		System.out.println("branch created and commit in git");
+		System.out.println("Branch pulled by changecompany and commit in git");
 	}
 
 }
